@@ -1048,10 +1048,10 @@
     unixify "^1.0.0"
     uuid "^8.3.2"
 
-"@layer0/devtools@^4.5.0":
-  version "4.5.0"
-  resolved "https://registry.yarnpkg.com/@layer0/devtools/-/devtools-4.5.0.tgz#57ff31269a0bda6a54404f71fc090b3d5a6b30a8"
-  integrity sha512-mx2KIagn5AGeG3yNp7xabFxXYe1QMTK69vQZP7jRWRRdRrP9B0nMSs/2zZk0qozPnKOznvSzd/VW6+kMLUtQbw==
+"@layer0/devtools@^4.13.14":
+  version "4.13.14"
+  resolved "https://registry.yarnpkg.com/@layer0/devtools/-/devtools-4.13.14.tgz#479efda6ea00ac52f19dcf5803c6d43ada361244"
+  integrity sha512-74vSkBR4oWpKWxyIM6YYjIaRgiFLHuGu3xrxMMVpSqZWK33jzgle8vKxl3eMOQf+fv1T9ywJRznA21ulojh5ZQ==
   dependencies:
     clsx "^1.1.1"
     lodash "^4.17.20"
