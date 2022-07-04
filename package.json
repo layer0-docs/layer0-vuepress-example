@@ -9,7 +9,7 @@
   },
   "license": "MIT",
   "devDependencies": {
-    "@layer0/cli": "^4.5.0",
+    "@layer0/cli": "^4.15.6",
     "@layer0/core": "^4.5.0",
     "@layer0/devtools": "^4.5.0",
     "@layer0/prefetch": "^4.5.0",
